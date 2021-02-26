@@ -1,7 +1,7 @@
 Waterdog 
 [![Build Status](https://ci.codemc.org/job/yesdog/job/Waterdog/badge/icon)](https://ci.codemc.org/job/yesdog/job/Waterdog/) 
 [![Discord Chat](https://img.shields.io/discord/574240965351571477.svg)](https://discord.gg/VA8VgCz)
-![MC Bedrock](https://gist.githubusercontent.com/colinrgodsey/ec4c8ad11c08d8e63bf8cd75679eed9f/raw/d523c9d9ecd2147b758da7dd6a9bcadc28a61f31/mcbe.svg?sanitize=true)
+![MC Bedrock](https://img.shields.io/badge/MC%3ABE-1.8--1.16-brightgreen)
 ![MC Java](https://gist.githubusercontent.com/colinrgodsey/1e18f62beaec3bb595ef1ed381152ad4/raw/df118cbf5c812b050354b74eb9288f0f6748bf67/mcje.svg?sanitize=true)
 =========
 
